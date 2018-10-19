@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_playground",
+  "version": "1.0.0",
+  "description": "PlayGround, try different things with node js",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "echo Developing mode",
+    "debug": "echo Debug mode"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keuchsieu/nodejs_playground.git"
+  },
+  "author": "Yuqing Qiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keuchsieu/nodejs_playground/issues"
+  },
+  "homepage": "https://github.com/Keuchsieu/nodejs_playground#readme"
+}

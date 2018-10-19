@@ -1,4 +1,5 @@
-var app = require('express')();
+const express = require('express');
+const app = express();
 const PORT = 8000;
 
 app.listen(8000, ()=>{
