@@ -65,3 +65,7 @@ mongodb/
 
 # visual studio code workspace
 *.code-workspace
+
+# firebase docs
+.firebaserc
+firebase.*
